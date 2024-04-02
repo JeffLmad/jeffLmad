@@ -2,7 +2,7 @@
 
 <ul>
 <li>Moro no Rio de Janeiro</li>
-<li>Futuro desenvolvedor Front-End</li>
+<li>Desenvolvedor</li>
 <li>Baixista nas horas vagas</li>
 </ul>
 
